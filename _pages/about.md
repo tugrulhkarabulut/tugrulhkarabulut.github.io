@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science and Engineering PhD Student, University of Michigan
+subtitle: CSE PhD Student, University of Michigan
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Ann Arbor, MI, USA</p>
     <p>University of Michigan</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,6 +26,6 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a first-year Computer Science and Engineering PhD student at the University of Michigan. I am part of the [Graph Exploration and Mining at Scale (GEMS) Lab](https://gemslab.github.io/), supervised by [Prof. Danai Koutra](https://web.eecs.umich.edu/~dkoutra/). My research interests include graph machine learning and its limitations as well as its integration with various modalities.
+Hi! I am a first-year Computer Science and Engineering PhD student at the University of Michigan, working in the [Graph Exploration and Mining at Scale (GEMS) Lab](https://gemslab.github.io/) under [Prof. Danai Koutra](https://web.eecs.umich.edu/~dkoutra/). My research interests include graph machine learning, studying its limitations, and exploring multimodal integration approaches.
 
-Previously, I have obtained my master's degree Boğaziçi University, where I worked on improving representation in graph neural networks (GNNs) by tackling over-smoothing and over-squashing phenomena under the supervision of Prof. İnci M. Baytaş.
+Previously, I obtained my master's degree from Boğaziçi University. There, I worked with Prof. İnci M. Baytaş on improving representation learning in graph neural networks (GNNs) by tackling over-smoothing and over-squashing phenomena.
