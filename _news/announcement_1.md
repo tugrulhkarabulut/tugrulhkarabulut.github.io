@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD program in University of Michigan!
+I started my PhD at the University of Michigan!
