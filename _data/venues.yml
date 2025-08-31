@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"icdm":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings
+  color: "#ff7f0e"
+
+"arxiv":
+  url: https://arxiv.org/
+  color: "#1c1c1c"
